@@ -1,0 +1,1 @@
+This coursework was done for the first year Principles of Programming unit at the University of Bath. It consists of a game called Dungeon of Doom, where the objective is to roam in a dungeon, picking up sufficient amounts of gold and then exiting the dungeon, all while evading smart zombies that track and attempt to catch the player.
